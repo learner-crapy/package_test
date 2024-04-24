@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+dazeT/__init__.py
+dazeT/moudle.py
+dazeT.egg-info/PKG-INFO
+dazeT.egg-info/SOURCES.txt
+dazeT.egg-info/dependency_links.txt
+dazeT.egg-info/top_level.txt

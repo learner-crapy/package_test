@@ -1,1 +1,1 @@
-from example_m.moudle import example_function
+from dazeT.moudle import example_function
